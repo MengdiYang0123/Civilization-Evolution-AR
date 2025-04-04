@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8985b2fd-0489-4e60-966f-6556aba8d9ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/01 GeneralDemo/1951-2000.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/01 GeneralDemo/1951-2000.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/01 GeneralDemo/Scripts/FilterMenuToggles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/01 GeneralDemo/Scripts/FilterMenuToggles.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/01 GeneralDemo/Scripts/Menu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/01 GeneralDemo/Scripts/Menu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/01 GeneralDemo/Scripts/SliderChangePeriod.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/01 GeneralDemo/Scripts/SliderChangePeriod.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorldMapEditorInspector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WorldMapEditorInspector.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resources/Geodata/1951-2000/Categories/categories_1951-2000_ENGLISH.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Resources/Geodata/1951-2000/Categories/categories_1951-2000_ENGLISH.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resources/Geodata/1951-2000/Cities/cities_1951-2000_ENGLISH.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Resources/Geodata/1951-2000/Cities/cities_1951-2000_ENGLISH.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resources/Geodata/1951-2000/Countries/countries110_1951-2000_ENGLISH.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Resources/Geodata/1951-2000/Countries/countries110_1951-2000_ENGLISH.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resources/Materials/CategoryTragedy.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../Resources/Materials/CategoryTragedy.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resources/Prefabs/CategorySpotTragedy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Resources/Prefabs/CategorySpotTragedy.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resources/Prefabs/CategorySpotTragedy.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Resources/Prefabs/CategorySpotTragedy.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resources/Textures/Other/category-tragedy.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Resources/Textures/Other/category-tragedy.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resources/Textures/Other/category-treaty.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Resources/Textures/Other/category-treaty.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scripts/Core/Internal/WPMCategories.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Scripts/Core/Internal/WPMCategories.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scripts/Core/Internal/WPMEarth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Scripts/Core/Internal/WPMEarth.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scripts/Core/Internal/WPMInternal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Scripts/Core/Internal/WPMInternal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2RETU81p76bIdTVfMZ3mtYcig9O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\asus\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\asus\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\asus\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8985b2fd-0489-4e60-966f-6556aba8d9ac" name="Changes" comment="" />
+      <created>1686814266090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686814266090</updated>
+      <workItem from="1686814269825" duration="724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
